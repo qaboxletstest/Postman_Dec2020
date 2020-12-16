@@ -1,13 +1,12 @@
+QA Box, Let's Test Youtube channel:
+JavaScript Tutorial for Beginners: https://youtube.com/playlist?list=PLMZdod-kiMhK7q5R6W-owyNhxHUJ3pf1Y
+API Testing Concepts: https://youtu.be/Y2oP8BLZD7o
+Demystify API Black Box: https://youtu.be/NcRGP9vv-N0
+
 Public Fake APIs
 1. https://reqres.in/
 2. http://httpbin.org/
 
-JSON Schema Validation
-???
-
-QA Box, Let's Test Youtube channel:
-JavaScript Tutorial for Beginners:
-HTTP:
-Demystify:
-
+Github:
+https://github.com/qaboxletstest/Postman_Dec2020
 

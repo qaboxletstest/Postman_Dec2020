@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "9ef74a00-216f-4e9e-a645-0873d27fee4c",
+		"name": "Postman Dec 2020",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Project#1",
+			"item": [
+				{
+					"name": "https://www.google.com",
+					"protocolProfileBehavior": {
+						"strictSSL": false
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://www.google.com",
+							"protocol": "https",
+							"host": [
+								"www",
+								"google",
+								"com"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
