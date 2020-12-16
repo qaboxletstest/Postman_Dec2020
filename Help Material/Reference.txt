@@ -1,0 +1,13 @@
+Public Fake APIs
+1. https://reqres.in/
+2. http://httpbin.org/
+
+JSON Schema Validation
+???
+
+QA Box, Let's Test Youtube channel:
+JavaScript Tutorial for Beginners:
+HTTP:
+Demystify:
+
+
